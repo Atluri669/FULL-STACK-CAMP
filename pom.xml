@@ -8,7 +8,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>saidevopss</artifactId>
-    <version>1.0</version>
+    <version>6.0.0</version>
     <packaging>war</packaging>
 
   <name>sai</name>
